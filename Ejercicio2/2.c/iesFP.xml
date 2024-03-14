@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="iesFP2.xsl" type="text/xsl"?>
+<?xml-stylesheet href="iesFP3.xsl" type="text/xsl"?>
 <ies nombre="IES Nuestra Señora de los Remedios" web="http://www.ieslosremedios.es" >
   <ciclos>
     <ciclo id="ASIR">
